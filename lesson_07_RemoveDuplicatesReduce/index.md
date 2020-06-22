@@ -1,11 +1,13 @@
 ## Task
 
-Implement remove duplicates from array function using array.reduce - `removeDuplicates()`
+Implement remove duplicates from array function using array.reduce - `removeDuplicateValues()`
 
 ## Example
 
 ```js
-console.log(removeDuplicates(['one','two','one','three','three','two'])) // ['one','two','three']
+console.log(
+  removeDuplicateValues(["one", "two", "one", "three", "three", "two"])
+); // ['one','two','three']
 ```
 
 ---
@@ -13,4 +15,3 @@ console.log(removeDuplicates(['one','two','one','three','three','two'])) // ['on
 ## Gotchas
 
 - write a function yourself and use only `array.reduce()` from all array methods
-

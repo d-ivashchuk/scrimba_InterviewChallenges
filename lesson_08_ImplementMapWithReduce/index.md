@@ -1,11 +1,11 @@
 ## Task
 
-Implement your own array mapping function with reduce - `mapArray()`
+Implement your own array mapping function with reduce - `map()`
 
 ## Example
 
 ```js
-console.log(mapArray([1,2,3],(v) => v + 1)) // [2,3,4]
+console.log(map([1, 2, 3], (v) => v + 1)); // [2,3,4]
 ```
 
 ---
