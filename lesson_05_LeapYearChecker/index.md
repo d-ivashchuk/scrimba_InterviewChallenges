@@ -15,4 +15,4 @@ console.log(isLeapYear("1600")); // true
 
 ## Gotchas
 
-- account to all edge cases
+- account for all edge cases
