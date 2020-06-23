@@ -1,6 +1,6 @@
 ## Task
 
-Implement pangram check function. Pangram is a string or a sentence which contains all letters of english alphabet. `isPangram()`
+Implement pangram check function. Pangram is a string or a sentence which contains all letters of English alphabet. `isPangram()`
 
 ## Example
 

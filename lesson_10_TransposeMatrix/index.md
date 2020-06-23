@@ -1,11 +1,11 @@
 ## Task
 
-Implement a function which transposes a matrix array - `transposeMatrix()`. [Explanation](https://mathinsight.org/matrix_transpose)
+Implement a function which transposes a matrix array - `transposeMatrix()`.
 
 ## Example
 
 ```js
-console.log(trasposeArray([
+console.log(transposeMatrix([
     [1,2,3],
     [1,2,3],
     [1,2,3],
@@ -14,6 +14,3 @@ console.log(trasposeArray([
 
 ---
 
-## Gotchas
-
-- write a function yourself and use only `array.reduce()` from all array methods
