@@ -9,10 +9,10 @@ Implement rain language translator - `toRainLanguage()`.
 ## Example
 
 ```js
-console.log(reverseString(15)) // PlingPlang
-console.log(reverseString(35)) // PlangPlong
-console.log(reverseString(21)) // PlingPlong
-console.log(reverseString(2)) //  2
+console.log(toRainLanguage(15)) // PlingPlang
+console.log(toRainLanguage(35)) // PlangPlong
+console.log(toRainLanguage(21)) // PlingPlong
+console.log(toRainLanguage(2)) //  2
 
 ```
 
